@@ -17,7 +17,11 @@ Project|Platform(s)|VM|Derived from|Completeness/compatibility
 [phonemefeaturedevices](https://github.com/hbao/phonemefeaturedevices)|Symbian, WinCE|phoneME CLDC|phoneME Feature|?
 [pluotsorbet](https://github.com/mozilla/pluotsorbet)|JavaScript|Custom (TypeScript)|phoneME|?
 
-# More emulation-related projects
+# Related Projects
+
+- [Awesome J2ME](https://github.com/hstsethi/awesome-j2me) - An awesome list about everything related to J2ME.
+
+## More emulation-related projects
 
 - https://github.com/PhoneJ2ME
 - https://github.com/minexew/freej2me-mascotcapsule
